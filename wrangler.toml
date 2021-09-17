@@ -1,0 +1,10 @@
+name = "geo-country-select"
+type = 'webpack'
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+kv_namespaces = [ 
+	 { binding = "COUNTRIES", id = "570734bfec664a95995bf901046706da" }
+]

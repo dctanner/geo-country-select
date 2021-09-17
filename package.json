@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "geo-country-select",
+  "version": "1.0.0",
+  "description": "List of countries with the user's location pre-selected.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Damien Tanner <damien@tanner.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
